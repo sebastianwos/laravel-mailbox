@@ -1,0 +1,13 @@
+{
+    "name": "wosseb/mailclient",
+    "description": "Mailclient for Laravel Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sebastianwos",
+            "email": "sebastian.wos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
